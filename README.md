@@ -1,6 +1,7 @@
 Banking ATM System
 
 This project is a simple Banking ATM System built using Java for the frontend and MySQL for the backend. The system enables users to log in, view account details, and perform transactions in a simulated banking environment.
+
 Features
 
     Login Authentication: Secure login for users based on Card Number and PIN.
